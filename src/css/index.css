@@ -23,5 +23,10 @@ h1 {
 
 .uk-button {
   width: 100%;
-  background-color: #ec3a49;
+  /* background-color: #ec3a49; */
+}
+
+.submit-button {
+  background-color: #e58e26;
+  color: #FFFFFF;
 }
