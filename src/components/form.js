@@ -65,7 +65,7 @@ class Form extends Component {
                     </div>
 
                     <div>
-                      <input type="submit" className="uk-button submit-button" value="Busca Eventos" />
+                      <input type="submit" className="uk-button submit-button" value="Buscar Eventos" />
                     </div>
                   </div>
                 </form>
