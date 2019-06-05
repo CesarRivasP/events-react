@@ -21,6 +21,14 @@ h1 {
   font-weight: 900;
 }
 
+.uk-container {
+  padding-bottom: 30px;
+}
+
+.form-container {
+  padding-bottom: 20px;
+}
+
 .uk-button {
   width: 100%;
   /* background-color: #ec3a49; */
@@ -29,4 +37,13 @@ h1 {
 .submit-button {
   background-color: #e58e26;
   color: #FFFFFF;
+}
+
+.info-button {
+  background-color: #0c2461;
+  color: #FFFFFF;
+}
+
+.description-event {
+  font-size: 14px;
 }
